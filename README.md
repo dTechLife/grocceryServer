@@ -1,6 +1,11 @@
 # My Groccery server.
+*Requires mongodb*
 
-This isto learn a javascript framework, (vue.js), along with furthuring understanding of node.js.
+This is the server for my grocceryClient, a project to learn a javascript framework, (vue.js), along with furthering understanding of node.js.
+
+
+
+The point of this application is to allow recipie storage along with groccery trip planning. 
 
 
 
