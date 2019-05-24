@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 0,
+    "url": "",
+    "database": "groccery",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}

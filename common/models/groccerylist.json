@@ -1,0 +1,34 @@
+{
+  "name": "groccerylist",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "ingredients": {
+      "type": "object",
+      "required": true
+    },
+    "yield": {
+      "type": "number",
+      "required": true
+    },
+    "yieldUnit": {
+      "type": "string",
+      "required": true
+    },
+    "servingCalories": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
