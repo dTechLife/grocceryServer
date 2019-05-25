@@ -5,7 +5,7 @@ This is the server for my grocceryClient, a project to learn a javascript framew
 
 
 
-The point of this application is to allow recipie storage along with groccery trip planning. 
+The point of this application is to allow recipe storage along with groccery trip planning. 
 
 
 
