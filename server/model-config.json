@@ -38,5 +38,13 @@
   "groccerylist": {
     "dataSource": "db",
     "public": true
+  },
+  "shoppinglist": {
+    "dataSource": "db",
+    "public": true
+  },
+  "recipes": {
+    "dataSource": "db",
+    "public": true
   }
 }
